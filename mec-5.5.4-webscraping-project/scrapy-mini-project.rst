@@ -22,15 +22,7 @@ This tutorial will walk you through these tasks:
 5. Using spider arguments
 6. Load the scraped data into a SQLlite3 database
 
-
-Creating a project
-==================
-
-Before you start scraping, you will have to set up a new Scrapy project. Enter a
-directory where you'd like to store your code and run::
-
-    scrapy startproject scrapy-mini-project
-
+scrapy startproject scrapy-mini-project
 This will create a ``scrapy-mini-project`` directory with the following contents::
 
     scrapy-mini-project/
