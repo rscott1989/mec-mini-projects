@@ -8,6 +8,10 @@
 ehthumbs.db
 Thumbs.db
 
+mec-6.4.1.data-wrangling-at-scale-with-spark/NASA_access_log_Aug95.txt
+mec-6.4.1.data-wrangling-at-scale-with-spark/NASA_access_log_Jul95.txt
+mec-17.4.1-recommendation-systems-mini-project/data/combined_data.csv.zip
+
 # Jupyter files #
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
